@@ -1,0 +1,50 @@
+:root {
+    --bodyBackground:#eee;
+    --colorBody:#333;
+    --colorBodyHover:rgb(17,17,17);
+    --colorWhite:#fff;
+    --colorWhiteHover:rgba(255,255,255,0.8);
+    --colorBlack:#000;
+    --colorGreen:#39b54a;
+    --colorGreenLight:rgb(217,243,241);
+    --colorPrimary:#3fbbeb;
+    --colorPrimaryHover:rgb(34,163,213);
+    --colorSecondary:#605fa4;
+    --colorSecondaryHover:rgb(72,70,145);
+    --colorViolet:#7a4c97;
+    --colorVioletHover:rgb(104,38,145);
+    --colorGold:#e0c84b;
+    --colorGoldLight:rgb(243,234,185, 0.5);
+    --colorGoldHover:rgb(205,181,56);
+
+    --defaultSpacer:.938rem;
+    --colorTextViolet:#983794;
+    --colorMuted:#888888;
+    --colorGray:#e6e6e6;
+    --colorDarkGray: #8b8b8b;
+    --colorDanger:#dc3545;
+    --colorDangerLight:rgb(239,186,191, 0.5);
+    --colorGoldDark:#463f18;
+    --colorBorder:#ccc;
+    --colorTransparent:transparent;
+
+    --sizeExtraSmall:.475rem;
+    --sizeSmall:.675rem;
+    --sizeBase:.875rem;
+    --sizeMedium:1rem;
+    --sizeLarge:1.25rem;
+    --sizeExtraLarge:1.5rem;
+
+    --bodyLineHeight:1.4;
+
+    --roundedPill:50rem;
+
+    --valueZero:0px;
+    --transition:all 0.3s ease-out 0s;
+
+    --objectContain:contain;
+    --objectCover:cover;
+
+    --fontBootstrapIcon:"bootstrap-icons";
+
+}

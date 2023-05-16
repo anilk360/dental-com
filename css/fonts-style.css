@@ -1,0 +1,8 @@
+:root {
+    --fontSofiaPro:"sofia-pro",sans-serif;
+    --fontSofiaProSoft:"sofia-pro-soft",sans-serif;
+    --fontSofiaProCond:"sofia-pro-condensed",sans-serif;
+    --fontBootstrapIcon:"bootstrap-icons";
+    --fontWeight400:400;
+    --fontWeight700:700;   
+}
